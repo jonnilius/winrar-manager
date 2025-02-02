@@ -33,14 +33,3 @@ Der **WinRAR-Manager** ist ein praktisches Batch-Skript, das die Installation, d
 
 
 
-
-## 📥 Installation:
-
-
-
-
-1.  Öffnen Sie die Powershell
-
-2.  Führe `irm get.aporie.me/winrar | iex` aus und
-
-3. Das Skript läuft
